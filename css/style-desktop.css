@@ -58,7 +58,7 @@ p {
 .firstSection {
     font-family: 'Montserrat', sans-serif;
     line-height: 1.5rem;
-    height: 60vh;
+    height: 70vh;
     background-image: url(../images/banner.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -70,6 +70,7 @@ button {
     padding: 1% 2.5%;
     border: none;
     border-radius: 5px;
+    margin-top: 2.5%;
 }
 
 .secSection h3:first-of-type {
